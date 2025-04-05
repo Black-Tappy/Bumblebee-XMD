@@ -34,7 +34,7 @@
     },
     "GREET_MSG": {
       "description": "set your greet message",
-      "value": "this is Keith personal assistant.Am sorry 😔 my master isn't around kindly leave a message",
+      "value": "this is Bee personal assistant.Am sorry 😔 my master isn't around kindly leave a message",
       "required": false
     },
     "AUTO_LIKE_STATUS": {
