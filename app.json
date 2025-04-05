@@ -64,7 +64,7 @@
     },
     "AUTO_STATUS_MSG": {
       "description": "type your genuine status message",
-      "value": "viewed ✅✅",
+      "value": "👻 viewed by Bumblebee-XMD 👻",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -144,7 +144,7 @@
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "",
+      "value": "https://files.catbox.moe/2w7amm.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
