@@ -12,7 +12,7 @@
 </p>
 
 
-https://files.catbox.moe/ljvbox.jpg
+<a><img src='https://files.catbox.moe/ljvbox.jpg'/></a>
 
 
 <a href="https://i.imgur.com/5zda1uw.jpeg"><img src="![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/9b608c05-46f8-4987-9802-b1635f8369aa)
