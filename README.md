@@ -1,3 +1,17 @@
++<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=BUMBLEBEE%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
+
+> **`Updated` BUMBLEBEE XMD with Latest Features**
+
+## CONTACT CASEYRHODES TECH
+  
+<a href="https://wa.me/254759000340"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100086056192263&name=xhp_nt__fb__action__open_use"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.instagram.com/bright_leizer_?igsh=Y2JmcnE1ajNjZXM=&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/Black-Tappy/Bumblebee-XMD/tree/main"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="BUMBLEBEE "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</p>
+
+
 ![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/3492e82d-a88a-450f-aff9-562a01d1c72e)
 
 
@@ -90,9 +104,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-   
-
-![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/f94fed59-54ec-4da2-a738-74e338c89946)
     <h1 align="center">BUMBLEBEE-XMD</h1>
   </a>                    
     
