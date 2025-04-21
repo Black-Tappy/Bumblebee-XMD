@@ -3,7 +3,7 @@
 
 > **`Updated` BUMBLEBEE XMD with Latest Features**
 
-## CONTACT CASEYRHODES TECH
+## CONTACT BUMBLEBEE-XMD TECH
   
 <a href="https://wa.me/254759000340"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
@@ -26,7 +26,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## HERE IS THE PROGRESS FOR BUMBLEBEE 
+## HERE IS THE PROGRESS FOR BUMBLEBEE-XMD 
 
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 
 
-## HOW TO GET BUMBLEBEE 
+## HOW TO GET BUMBLEBEE-XMD 
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -104,6 +104,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-    <h1 align="center">BUMBLEBEE-XMD</h1>
+  <h1 align="center">BUMBLEBEE-XMD</h1>
   </a>                    
     
