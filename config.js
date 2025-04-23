@@ -73,7 +73,7 @@ DEV: process.env.DEV || "254759000340",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
-ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", 
+ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", 
 // change it to 'same' if you want to resend deleted message in same chat 
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
 // make it true for auto recoding 
