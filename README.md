@@ -32,18 +32,18 @@
 <p align="center">
 <a href="https://github.com/Black-Tappy/followers"><img title="Black-Tappy-Followers" src="https://img.shields.io/github/followers/Black-Tappy?color=blue&style=flat-square"></a>
     
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black-Tappy/Black-Tappy?color=blue&style=flat-square"></a>
+<a href="https://github.com/Black-Tappy/Bumblebee-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black-Tappy/Black-Tappy?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Tappy/Bumblee-Bee?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Black-Tappy/Bumblebee-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Tappy/Bumblebee-XMD?color=yellow&style=flat-square"></a>
 
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/"><img title="Size" src="https://img.shields.io/github/repo-size/Black-Tappy/Bumblee-Bee-X?style=flat-square&color=pink"></a>
+<a href="https://github.com/Black-Tappy/Bumblebee-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Black-Tappy/Bumblebee-XMD-X?style=flat-square&color=pink"></a>
 
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Black-Tappy/Bumblebee-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Bumblee-Bee}/count.svg" alt="Black-Tappy :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Black-Tappy}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Bumblebee-XMD}/count.svg" alt="Black-Tappy :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Black-Tappy}/count.svg" /></p>
 
 
 
@@ -69,7 +69,7 @@
  
 
 
-  <a href="https://popkidxtech-session.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
+  <a href="https://blacktappy.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
