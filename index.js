@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("Bumblebee~", '');
+const sessdata = config.SESSION_ID.replace("BLACKTAPPY~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -102,15 +102,15 @@ const port = process.env.PORT || 9090;
   connectToWA()
   }
   } else if (connection === 'open') {
-  console.log('🧬 Installing Plugins')
+  console.log('💚 Installing Plugins')
   const path = require('path');
   fs.readdirSync("./plugins/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
   require("./plugins/" + plugin);
   }
   });
-  console.log('Plugins installed successful ✅')
-  console.log('Bot connected to whatsapp ✅')
+  console.log('Plugins installed successful ❤️')
+  console.log('Bot connected to whatsapp 🤗')
   
   let up = `*Hello there BUMBLEBEE-XMD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet BUMBLEBEE-XMD WhatsApp Bot.\n\n *Thanks for using BUMBLEBEE-XMD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhhttps://github.com/Black-Tappy/Bumblebee-XMD\n\n> © Powered BY Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/ljvbox.jpg` }, caption: up })
