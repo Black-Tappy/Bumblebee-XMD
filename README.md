@@ -29,23 +29,13 @@
 ## HERE IS THE PROGRESS FOR BUMBLEBEE-XMD 
 
 
-<p align="center">
-<a href="https://github.com/Black-Tappy/followers"><img title="Black-Tappy-Followers" src="https://img.shields.io/github/followers/Black-Tappy?color=blue&style=flat-square"></a>
-    
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black-Tappy/Black-Tappy?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Tappy/Bumblebee-XMD?color=yellow&style=flat-square"></a>
-
-<a href="https://github.com/Black-Tappy/Bumblee-Bee/"><img title="Size" src="https://img.shields.io/github/repo-size/Black-Tappy/Bumblebee-XMD-X?style=flat-square&color=pink"></a>
-
-<a href="https://github.com/Black-Tappy/Bumblebee-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
- <p align="center"><img src="https://profile-counter.glitch.me/{Bumblebee-XMD}/count.svg" alt="Black-Tappy :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Black-Tappy}/count.svg" /></p>
-
-
+<div align="center">
+  <a href="https://github.com/Black-Tappy/followers"><img title="Followers" src="https://img.shields.io/github/followers/Black-Tappy?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Black-Tappy/Bumblebee-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black-Tappy/Bumblebee-XMD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Black-Tappy/Bumblebee-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Tappy/Bumblebee-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Black-Tappy/Bumblebee-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Black-Tappy/Bumblebee-XMD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Black-Tappy/Bumblebee-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+</div>
 
 
 
