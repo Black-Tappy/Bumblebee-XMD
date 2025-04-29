@@ -78,7 +78,7 @@ export const webp2mp4File = async (path) => {
       const result = 'https:' + $2('div#output > p.outfile > video > source').attr('src');
       resolve({
         status: true,
-        message: "Created By POPKID-MD",
+        message: "Created By Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ",
         result: result
       });
     } catch (err) {
