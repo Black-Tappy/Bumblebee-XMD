@@ -1,202 +1,100 @@
 {
-  "name": "𝐁ᴜᴍʙʟᴇʙᴇᴇ-𝐗ᴍ𝐃",
-  "description": "Javascript WhatsApp bot made by Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ",
-  "logo": "https://files.catbox.moe/o3ojhw.jpg",
-  "keywords": ["Bumblebee-XMD"],
-  "success_url": "/",
-
-    "stack": "container",
-  "env": {
+  "name": "OBED TECHX",
+  "description": "🚀 OBED TECHX WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
+  "logo": "https://files.catbox.moe/67ln01.jpg",
+  "keywords": ["OBED TECH", "whatsapp-bot", "whatsapp-md-bot"],
+  "repository": "https://github.com/Trippleo1802/OBED-TECHX1",
+  "stack": "container",
+  "env": { 
+  
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Ensure your session Id starts with the word OBED-TECHX~$",
       "required": true,
       "value": ""
-    },  
-    
-    "STICKER_NAME": {
-      "description": "type your sticker pack name.",
-      "required": false,
-      "value": "Ᏼᴜᴍʙʟᴇʙᴇᴇ-ХᴍᎠ🏷️"
-    }, 
-      
-    "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
-      "value": "."
     },
-    
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
-      "required": false,
+      "description": "Set to 'public' or 'private' to define bot mode",
+      "required": true,
       "value": "public"
-      
     },
-    
-    
-    "ALWAYS_ONLINE": {
-      "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
-    },    
-  
-    "AUTO_VOICE": {
-      "description": "Make it true if want automatic voice reply .",
-      "required": false,
-      "value": "false"
-    }, 
-
-    "AUTO_REPLY": {
-      "description": "Make it true if you want automatic reply.",
-      "required": false,
-      "value": "false"
-    }, 
-
-    "AUTO_STICKER": {
-      "description": "Make it true if you want automatic sticker.",
-      "required": false,
-      "value": "false"
-    }, 
-
-
-    "AUTO_STATUS_SEEN": {
-      "description": "Make it true for automatic status seen.",
-      "required": true,
-      "value": "true"
-    }, 
-
-    "AUTO_STATUS_REACT": {
-      "description": "make it true for automatic status reaction or like.",
-      "required": true,
-      "value": "true"
-    }, 
-
-    "AUTO_STATUS_REPLY": {
-      "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
-      "value": "false"
-    }, 
-
-    "AUTO_STATUS_MSG": {
-      "description": "Type custom message on status reply",
-      "required": true,
-      "value": "*Sseen your status by Ᏼᴜᴍʙʟᴇʙᴇᴇ-ХᴍᎠ🏷️*"
-   
-     }, 
-    
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ"
-}, 
-
+      "description": "Your name as the bot owner",
+      "required": true,
+      "value": "OBED TECHX"
+    },
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "required": false,
-      "value": "254759000340"
-
-    }, 
-
-    "BOT_NAME": {
-      "description": "Type here the bot name.",
-      "required": false,
-      "value": "𝐁ᴜᴍʙʟᴇʙᴇᴇ-𝐗ᴍ𝐃"
-
-      }, 
-
-    "ANTI_LINK": {
-      "description": "Make it true if you want bot auto remove group link.",
+      "description": "Your WhatsApp number",
       "required": true,
-      "value": "true"
-      
+      "value": "254701082940"
     },
-
-     "ANTI_LINK_KICK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
-      "value": "false"
-      
-    },
-    
-    "ANTI_BAD": {
-      "description": "Make it true if you want bot auto delete bad words.",
+    "AUTO_READ": {
+      "description": "Enable bot to auto-read messages (true/false)",
       "required": false,
       "value": "false"
     },
-
-   "MENTION_REPLY": {
-      "description": "make it true if want mention reply if someone menetion you.",
-      "required": false,
-      "value": "false"
-    },
-    
-    "MENU_IMAGE_URL": {
-      "description": "add url for mention reply and menu if want.",
-      "required": false,
-      "value": "https://files.catbox.moe/o3ojhw.jpg"
-    },
-    
-     "DESCRIPTION": {
-      "description": "add caption for menu and other",
-      "required": false,
-      "value": "*©Pᴏᴡᴇʀᴇᴅ Bʏ Ᏼᴜᴍʙʟᴇʙᴇᴇ-ХᴍᎠ*"
-    },
-
-      "DELETE_LINKS": {
-      "description": "remove links from group automatically without removing member",
-      "required": false,
-      "value": "true"
-    },
-    
-    "AUTO_RECORDING": {
-      "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
-    },
-
     "AUTO_TYPING": {
-      "description": "Make it true if you want auto typing.",
+      "description": "Enable bot to show typing status (true/false)",
       "required": false,
       "value": "false"
     },
-
+    "AUTO_RECORDING": {
+      "description": "Enable bot to show recording status (true/false)",
+      "required": false,
+      "value": "false"
+    },
+    "ALWAYS_ONLINE": {
+      "description": "Keep bot always online (true/false)",
+      "required": false,
+      "value": "false"
+    },
     "AUTO_REACT": {
-      "description": "Make it true if you want react on every message.",
+      "description": "Enable bot to auto-react to messages (true/false)",
       "required": false,
       "value": "false"
     },
-    
-    "CUSTOM_REACT": {
-      "description": "Make it true if you want custom reactions.",
+    "ANTI_DELETE": {
+      "description": "Enable anti-delete feature (true/false)",
+      "required": true,
+      "value": "true"
+    },
+    "AUTO_STATUS_SEEN": {
+      "description": "Enable bot to view statuses (true/false)",
       "required": false,
       "value": "true"
-      
-    }, 
-    
-    "CUSTOM_REACT_EMOJIS": {
-      "description": "put here custom react react emojis.",
+    },
+    "AUTO_STATUS_REPLY": {
+      "description": "Enable bot to reply after viewing a status (true/false)",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
-    }, 
-    
-    "ANTI_DEL_PATH": {
-      "description": "change it to -same- if you want to resend deleted message in same chat",
+      "value": "false"
+    },
+    "STATUS_READ_MSG": {
+      "description": "Set the message bot sends after viewing a status",
       "required": false,
-      "value": "log"
-    }, 
-
-    "READ_MESSAGE": {
-      "description": "Make it true if you want bot read your all sms just now.",
+      "value": "*Status Seen*"
+    },
+    "AUTO_BLOCK": {
+      "description": "Enable bot to auto-block specific numbers (true/false)",
+      "required": false,
+      "value": "false"
+    },
+    "REJECT_CALL": {
+      "description": "Enable bot to reject incoming calls (true/false)",
       "required": false,
       "value": "false"
     }
-
-},
-
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
-  "stack": "heroku-24"
-}
-  
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+  }

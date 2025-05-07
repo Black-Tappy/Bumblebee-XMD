@@ -1,15 +1,15 @@
 
 {
-    "bot-name": "𝐁ᴜᴍʙʟᴇʙᴇᴇ-𝐗ᴍ𝐃",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By  Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ",
-    "logo": "https://files.catbox.moe/o3ojhw.jpg",
+    "bot-name": "OBED TECHX",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr ObedTechX",
+    "logo": "https://files.catbox.moe/67ln01.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://thunder-pair-generator.onrender.com/pair",
-    "owner-verification": "blacktappy5@gmail.com",
+    "documentation-link": "https://cloud-tech-tces.onrender.com/",
+    "owner-verification": "techobed06@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with THUNDER~  or get session id from here,  https://thunder-pair-generator.onrender.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts with Caseyrhodes~  or get session id from here,  https://pairs-rzev.onrender.com/",
         "value":"",
         "required": true
         
@@ -25,7 +25,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐁ᴜᴍʙʟᴇʙᴇᴇ-𝐗ᴍ𝐃"
+      "value": "x-𝚆.𝙰 𝙱𝙾𝚃"
   
     },
     
@@ -77,27 +77,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*Ᏼᴜᴍʙʟᴇʙᴇᴇ-ХᴍᎠ 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*caseyrhodes 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ"
+      "value": "𝐌r Obed"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254759000340"
+      "value": "254701082940"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "Ᏼᴜᴍʙʟᴇʙᴇᴇ-ХᴍᎠ"
+      "value": "OBED TECHX"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© powered by Ᏼᴜᴍʙʟᴇʙᴇᴇ-ХᴍᎠ*"
+      "value": "*© powered by ObedTechx*"
     },
 
       "DELETE_LINKS": {

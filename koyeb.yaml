@@ -1,6 +1,6 @@
-name: khan-md
+name: BERA-TECH 
 services:
-  - name: khan-md-service
+  - name: BERA-TECH-SERVICE
     type: web
     ports:
       - 5000

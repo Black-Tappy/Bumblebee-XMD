@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("BUMBLEBEE-XMD~")[1];
+    const sessdata = config.SESSION_ID.split("OBED-TECHX~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
